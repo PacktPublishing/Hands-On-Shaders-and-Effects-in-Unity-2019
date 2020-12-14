@@ -1,3 +1,8 @@
+## $5 Tech Unlocked 2021!
+[Buy and download this Video for only $5 on PacktPub.com](https://www.packtpub.com/product/hands-on-shaders-and-effects-in-unity-2019-video/9781838823399)
+-----
+*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
+
 # Hands-On-Shaders-and-Effects-in-Unity-2019
 This is the code repository for [Hands-On Shaders and Effects in Unity 2019 [Video]](https://www.packtpub.com/game-development/hands-on-shaders-and-effects-in-unity-2019-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
